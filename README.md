@@ -30,6 +30,7 @@ Download the .zip file and extract all files into directory of your choice OR cl
 
 * C#
 * .NET Core
+* C# REPL
 * Git
 
 ## Author
